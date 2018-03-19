@@ -1,4 +1,4 @@
-alert("connected");
+
 
 var listArray = ["einstein", "jobs", "gates", "hawking", "carver"];
 var wordChosen = "";
